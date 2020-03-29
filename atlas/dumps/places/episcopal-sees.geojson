@@ -1,0 +1,1295 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.255061,
+                    29.849491
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "name": "Memphis",
+                "pleiades": "736963"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1339825,
+                    30.1223455
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "Letopolis",
+                "pleiades": "727149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.774367,
+                    30.96715
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "name": "Sais",
+                "pleiades": "727217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4707825,
+                    31.033655
+                ]
+            },
+            "properties": {
+                "id": "5",
+                "name": "Hermopolis Mikra",
+                "pleiades": "727123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2387955,
+                    30.913368
+                ]
+            },
+            "properties": {
+                "id": "7",
+                "name": "Bousiris",
+                "pleiades": "727090"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.18441852508113,
+                    30.47259125522926
+                ]
+            },
+            "properties": {
+                "id": "8",
+                "name": "Athribis",
+                "pleiades": "727078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.35,
+                    30.683333
+                ]
+            },
+            "properties": {
+                "id": "9",
+                "name": "Leontopolis (Tell el-Moqdam)",
+                "pleiades": "727147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.239982,
+                    30.9641295
+                ]
+            },
+            "properties": {
+                "id": "10",
+                "name": "Sebennytos",
+                "pleiades": "727227"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.284786,
+                    30.131757
+                ]
+            },
+            "properties": {
+                "id": "11",
+                "name": "Heliopolis",
+                "pleiades": "727117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.874266,
+                    30.9758406667
+                ]
+            },
+            "properties": {
+                "id": "12",
+                "name": "Tanis",
+                "pleiades": "727236"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.815787,
+                    25.996402
+                ]
+            },
+            "properties": {
+                "id": "20",
+                "name": "Koptos",
+                "pleiades": "786010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.6700972222,
+                    26.141775
+                ]
+            },
+            "properties": {
+                "id": "21",
+                "name": "Dendera",
+                "pleiades": "786127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.312497,
+                    26.016881
+                ]
+            },
+            "properties": {
+                "id": "22",
+                "name": "Diospolis Mikra",
+                "pleiades": "756566"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7451755,
+                    26.5648875
+                ]
+            },
+            "properties": {
+                "id": "24",
+                "name": "Panopolis",
+                "pleiades": "756613"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.517443,
+                    26.8992835
+                ]
+            },
+            "properties": {
+                "id": "25",
+                "name": "Antaiopolis",
+                "pleiades": "756515"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.234697,
+                    27.146592
+                ]
+            },
+            "properties": {
+                "id": "26",
+                "name": "Hypsele",
+                "pleiades": "756578"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1825335,
+                    27.181346
+                ]
+            },
+            "properties": {
+                "id": "27",
+                "name": "Lykopolis",
+                "pleiades": "756593"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8035806072,
+                    27.7796202493
+                ]
+            },
+            "properties": {
+                "id": "28",
+                "name": "Hermoupolis Magna",
+                "pleiades": "756574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.782897,
+                    28.479495
+                ]
+            },
+            "properties": {
+                "id": "29",
+                "name": "Kynopolis",
+                "pleiades": "736949"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.65172,
+                    28.542574
+                ]
+            },
+            "properties": {
+                "id": "31",
+                "name": "Oxyrhynchos",
+                "pleiades": "736983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.936518,
+                    29.0857433333
+                ]
+            },
+            "properties": {
+                "id": "32",
+                "name": "Herakleopolis Magna",
+                "pleiades": "736920"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8399565,
+                    29.3149635
+                ]
+            },
+            "properties": {
+                "id": "33",
+                "name": "Arsinoe",
+                "pleiades": "736948"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.25167,
+                    29.408419
+                ]
+            },
+            "properties": {
+                "id": "34",
+                "name": "Aphroditopolis",
+                "pleiades": "736889"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5168555,
+                    30.9356335
+                ]
+            },
+            "properties": {
+                "id": "35",
+                "name": "Thmouis",
+                "pleiades": "727249"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5397,
+                    31.041874
+                ]
+            },
+            "properties": {
+                "id": "36",
+                "name": "Pelusium",
+                "pleiades": "727192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.004611,
+                    30.7709265
+                ]
+            },
+            "properties": {
+                "id": "37",
+                "name": "Taya",
+                "pleiades": "727243"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.9079146667,
+                    31.1982456667
+                ]
+            },
+            "properties": {
+                "id": "38",
+                "name": "Alexandria",
+                "pleiades": "727070"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.375411,
+                    31.12039
+                ]
+            },
+            "properties": {
+                "id": "39",
+                "name": "Metelis",
+                "pleiades": "727163"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7440385,
+                    31.20015375
+                ]
+            },
+            "properties": {
+                "id": "40",
+                "name": "Buto",
+                "pleiades": "727094"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.167572,
+                    30.982139
+                ]
+            },
+            "properties": {
+                "id": "41",
+                "name": "Herakleopolis Mikra",
+                "pleiades": "727121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.234453,
+                    30.896044
+                ]
+            },
+            "properties": {
+                "id": "42",
+                "name": "Kynopolis Inferior",
+                "pleiades": "727144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.620556,
+                    30.734257
+                ]
+            },
+            "properties": {
+                "id": "43",
+                "name": "Pharbaithos",
+                "pleiades": "727196"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.672164,
+                    30.720511
+                ]
+            },
+            "properties": {
+                "id": "44",
+                "name": "Phakoussa",
+                "pleiades": "727194"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.851018,
+                    30.411529
+                ]
+            },
+            "properties": {
+                "id": "45",
+                "name": "Nikiou",
+                "pleiades": "727174"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.858433,
+                    31.289517
+                ]
+            },
+            "properties": {
+                "id": "46",
+                "name": "Phragonis",
+                "pleiades": "727201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.74459,
+                    31.090569
+                ]
+            },
+            "properties": {
+                "id": "47",
+                "name": "Kabasa",
+                "pleiades": "727133"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.936,
+                    31.158072
+                ]
+            },
+            "properties": {
+                "id": "48",
+                "name": "Panephysis",
+                "pleiades": "727184"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.67065238952637,
+                    30.74840099714537
+                ]
+            },
+            "properties": {
+                "id": "49",
+                "name": "Andronpolis",
+                "pleiades": "727071"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.192032,
+                    31.13965
+                ]
+            },
+            "properties": {
+                "id": "52",
+                "name": "Schedia",
+                "pleiades": "727221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8810025,
+                    27.8105625
+                ]
+            },
+            "properties": {
+                "id": "53",
+                "name": "Antinoupolis",
+                "pleiades": "756518"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9507545,
+                    32.708807
+                ]
+            },
+            "properties": {
+                "id": "54",
+                "name": "Ptolemais",
+                "pleiades": "373879"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.710142,
+                    25.854553
+                ]
+            },
+            "properties": {
+                "id": "55",
+                "name": "Apollonopolis Parva",
+                "pleiades": "785975"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.817991,
+                    27.438183
+                ]
+            },
+            "properties": {
+                "id": "56",
+                "name": "Koussai",
+                "pleiades": "756588"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8214,
+                    29.529099
+                ]
+            },
+            "properties": {
+                "id": "57",
+                "name": "Neiloupolis",
+                "pleiades": "736973"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.55649131,
+                    25.29355461
+                ]
+            },
+            "properties": {
+                "id": "58",
+                "name": "Esna",
+                "pleiades": "786059"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.238122,
+                    26.0488019
+                ]
+            },
+            "properties": {
+                "id": "83",
+                "name": "Nag Hammadi",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4737,
+                    23.9103
+                ]
+            },
+            "properties": {
+                "id": "84",
+                "name": "Berenike (Upper Egypt)",
+                "pleiades": "785986"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.430636,
+                    31.11593
+                ]
+            },
+            "properties": {
+                "id": "89",
+                "name": "Ostrakine",
+                "pleiades": "687993"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.796926,
+                    31.111755
+                ]
+            },
+            "properties": {
+                "id": "126",
+                "name": "Rinokoloura",
+                "pleiades": "688016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.92746,
+                    31.358242
+                ]
+            },
+            "properties": {
+                "id": "127",
+                "name": "Pachnemounis",
+                "pleiades": "727183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.901491,
+                    24.0885745
+                ]
+            },
+            "properties": {
+                "id": "128",
+                "name": "Syene",
+                "pleiades": "786123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.815779,
+                    30.432395
+                ]
+            },
+            "properties": {
+                "id": "131",
+                "name": "Terenouthis",
+                "pleiades": "727244"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.02028,
+                    31.58128
+                ]
+            },
+            "properties": {
+                "id": "132",
+                "name": "Paralos",
+                "pleiades": "727224"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.812588,
+                    31.417068
+                ]
+            },
+            "properties": {
+                "id": "133",
+                "name": "Tamiathis",
+                "pleiades": "727235"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.171528,
+                    30.8610335
+                ]
+            },
+            "properties": {
+                "id": "135",
+                "name": "Daphnai",
+                "pleiades": "727103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.292698,
+                    31.255258
+                ]
+            },
+            "properties": {
+                "id": "138",
+                "name": "Thennesos",
+                "pleiades": "727247"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5601425,
+                    29.9701405
+                ]
+            },
+            "properties": {
+                "id": "140",
+                "name": "Clysma",
+                "pleiades": "727101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5919275,
+                    30.900508
+                ]
+            },
+            "properties": {
+                "id": "141",
+                "name": "Naukratis",
+                "pleiades": "727169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2301075,
+                    30.005783
+                ]
+            },
+            "properties": {
+                "id": "144",
+                "name": "Babylon",
+                "pleiades": "727082"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.850314,
+                    31.210588
+                ]
+            },
+            "properties": {
+                "id": "145",
+                "name": "Hephaistos",
+                "pleiades": "727119"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.302068,
+                    29.728688
+                ]
+            },
+            "properties": {
+                "id": "146",
+                "name": "Skenai Mandrai",
+                "pleiades": "737050"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2368445,
+                    31.350136
+                ]
+            },
+            "properties": {
+                "id": "150",
+                "name": "Paraitonion",
+                "pleiades": "716615"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.409102,
+                    31.506636
+                ]
+            },
+            "properties": {
+                "id": "152",
+                "name": "Zygrai",
+                "pleiades": "716656"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7304627764,
+                    25.5967547643
+                ]
+            },
+            "properties": {
+                "id": "154",
+                "name": "Oasis Magna",
+                "pleiades": "776210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.75,
+                    30.25
+                ]
+            },
+            "properties": {
+                "id": "155",
+                "name": "Prosopites",
+                "pleiades": "727206"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.366982,
+                    30.849572
+                ]
+            },
+            "properties": {
+                "id": "156",
+                "name": "Sile",
+                "pleiades": "727231"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.700194,
+                    30.475859
+                ]
+            },
+            "properties": {
+                "id": "157",
+                "name": "Boreum",
+                "pleiades": "363948"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0699815,
+                    32.1139055
+                ]
+            },
+            "properties": {
+                "id": "158",
+                "name": "Berenike (Lower Egypt)",
+                "pleiades": "373757"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5672976667,
+                    32.5363993333
+                ]
+            },
+            "properties": {
+                "id": "159",
+                "name": "Taucheira",
+                "pleiades": "373736"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8717433333,
+                    32.4996533333
+                ]
+            },
+            "properties": {
+                "id": "160",
+                "name": "Barke",
+                "pleiades": "373750"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.961371,
+                    32.076457
+                ]
+            },
+            "properties": {
+                "id": "162",
+                "name": "Antipyrgos",
+                "pleiades": "716525"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5,
+                    31.5
+                ]
+            },
+            "properties": {
+                "id": "163",
+                "name": "Bassachitai?",
+                "pleiades": "716534"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3072025,
+                    32.35204
+                ]
+            },
+            "properties": {
+                "id": "164",
+                "name": "Hadrianopolis",
+                "pleiades": "373824"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2786287667,
+                    32.869317
+                ]
+            },
+            "properties": {
+                "id": "165",
+                "name": "Erythron",
+                "pleiades": "373785"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8732936296,
+                    24.9795361111
+                ]
+            },
+            "properties": {
+                "id": "179",
+                "name": "Tell Edfu",
+                "pleiades": "785974"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.639831006526954,
+                    25.700386836574737
+                ]
+            },
+            "properties": {
+                "id": "19",
+                "name": "Luxor complex",
+                "pleiades": "786017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.599584579467777,
+                    31.22395859822874
+                ]
+            },
+            "properties": {
+                "id": "325",
+                "name": "Koprithis",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.95058917999268,
+                    31.08822202469153
+                ]
+            },
+            "properties": {
+                "id": "4",
+                "name": "Xois",
+                "pleiades": "727256"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.332707405069876,
+                    30.293479158379245
+                ]
+            },
+            "properties": {
+                "id": "328",
+                "name": "Leontopolis (Tell el-Yahudiya)",
+                "pleiades": "727146"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9345817565918,
+                    30.46643043369801
+                ]
+            },
+            "properties": {
+                "id": "51",
+                "name": "Onouphis Ano",
+                "pleiades": "730134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.965652465820316,
+                    30.883001015521867
+                ]
+            },
+            "properties": {
+                "id": "50",
+                "name": "Onouphis Kato",
+                "pleiades": "730134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.571273803056105,
+                    31.259769989633373
+                ]
+            },
+            "properties": {
+                "id": "14",
+                "name": "Tell el-Balamun",
+                "pleiades": "727111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5148401260376,
+                    30.57077834025796
+                ]
+            },
+            "properties": {
+                "id": "15",
+                "name": "Bubastis",
+                "pleiades": "727088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.656394,
+                    30.99482
+                ]
+            },
+            "properties": {
+                "id": "143",
+                "name": "Marea",
+                "pleiades": "727153"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.740191,
+                    18.199038
+                ]
+            },
+            "properties": {
+                "id": "359",
+                "name": "Dongola",
+                "pleiades": "865674318"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.498587,
+                    22.204049
+                ]
+            },
+            "properties": {
+                "id": "358",
+                "name": "Faras",
+                "pleiades": "795838"
+            }
+        }
+    ]
+}
