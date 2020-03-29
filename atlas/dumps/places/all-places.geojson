@@ -1,0 +1,5195 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.255061,
+                    29.849491
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "name": "Memphis",
+                "pleiades": "736963"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1339825,
+                    30.1223455
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "Letopolis",
+                "pleiades": "727149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.774367,
+                    30.96715
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "name": "Sais",
+                "pleiades": "727217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4707825,
+                    31.033655
+                ]
+            },
+            "properties": {
+                "id": "5",
+                "name": "Hermopolis Mikra",
+                "pleiades": "727123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.099321,
+                    30.552892
+                ]
+            },
+            "properties": {
+                "id": "6",
+                "name": "Heroonpolis",
+                "pleiades": "727124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2387955,
+                    30.913368
+                ]
+            },
+            "properties": {
+                "id": "7",
+                "name": "Bousiris",
+                "pleiades": "727090"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.18441852508113,
+                    30.47259125522926
+                ]
+            },
+            "properties": {
+                "id": "8",
+                "name": "Athribis",
+                "pleiades": "727078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.35,
+                    30.683333
+                ]
+            },
+            "properties": {
+                "id": "9",
+                "name": "Leontopolis (Tell el-Moqdam)",
+                "pleiades": "727147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.239982,
+                    30.9641295
+                ]
+            },
+            "properties": {
+                "id": "10",
+                "name": "Sebennytos",
+                "pleiades": "727227"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.284786,
+                    30.131757
+                ]
+            },
+            "properties": {
+                "id": "11",
+                "name": "Heliopolis",
+                "pleiades": "727117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.874266,
+                    30.9758406667
+                ]
+            },
+            "properties": {
+                "id": "12",
+                "name": "Tanis",
+                "pleiades": "727236"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.379406,
+                    31.037798
+                ]
+            },
+            "properties": {
+                "id": "13",
+                "name": "Hermopolis",
+                "pleiades": "727122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.889,
+                    24.09
+                ]
+            },
+            "properties": {
+                "id": "16",
+                "name": "Elephantine",
+                "pleiades": "786021"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.7824705,
+                    25.0480345
+                ]
+            },
+            "properties": {
+                "id": "18",
+                "name": "Hierakonpolis",
+                "pleiades": "786037"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.815787,
+                    25.996402
+                ]
+            },
+            "properties": {
+                "id": "20",
+                "name": "Koptos",
+                "pleiades": "786010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.6700972222,
+                    26.141775
+                ]
+            },
+            "properties": {
+                "id": "21",
+                "name": "Dendera",
+                "pleiades": "786127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.312497,
+                    26.016881
+                ]
+            },
+            "properties": {
+                "id": "22",
+                "name": "Diospolis Mikra",
+                "pleiades": "756566"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.91627145,
+                    26.1859907667
+                ]
+            },
+            "properties": {
+                "id": "23",
+                "name": "Abydos",
+                "pleiades": "756512"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7451755,
+                    26.5648875
+                ]
+            },
+            "properties": {
+                "id": "24",
+                "name": "Panopolis",
+                "pleiades": "756613"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.517443,
+                    26.8992835
+                ]
+            },
+            "properties": {
+                "id": "25",
+                "name": "Antaiopolis",
+                "pleiades": "756515"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.234697,
+                    27.146592
+                ]
+            },
+            "properties": {
+                "id": "26",
+                "name": "Hypsele",
+                "pleiades": "756578"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1825335,
+                    27.181346
+                ]
+            },
+            "properties": {
+                "id": "27",
+                "name": "Lykopolis",
+                "pleiades": "756593"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8035806072,
+                    27.7796202493
+                ]
+            },
+            "properties": {
+                "id": "28",
+                "name": "Hermoupolis Magna",
+                "pleiades": "756574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.782897,
+                    28.479495
+                ]
+            },
+            "properties": {
+                "id": "29",
+                "name": "Kynopolis",
+                "pleiades": "736949"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.916624,
+                    28.766518
+                ]
+            },
+            "properties": {
+                "id": "30",
+                "name": "Ankyropolis",
+                "pleiades": "736888"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.65172,
+                    28.542574
+                ]
+            },
+            "properties": {
+                "id": "31",
+                "name": "Oxyrhynchos",
+                "pleiades": "736983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.936518,
+                    29.0857433333
+                ]
+            },
+            "properties": {
+                "id": "32",
+                "name": "Herakleopolis Magna",
+                "pleiades": "736920"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8399565,
+                    29.3149635
+                ]
+            },
+            "properties": {
+                "id": "33",
+                "name": "Arsinoe",
+                "pleiades": "736948"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.25167,
+                    29.408419
+                ]
+            },
+            "properties": {
+                "id": "34",
+                "name": "Aphroditopolis",
+                "pleiades": "736889"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5168555,
+                    30.9356335
+                ]
+            },
+            "properties": {
+                "id": "35",
+                "name": "Thmouis",
+                "pleiades": "727249"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5397,
+                    31.041874
+                ]
+            },
+            "properties": {
+                "id": "36",
+                "name": "Pelusium",
+                "pleiades": "727192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.004611,
+                    30.7709265
+                ]
+            },
+            "properties": {
+                "id": "37",
+                "name": "Taya",
+                "pleiades": "727243"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.9079146667,
+                    31.1982456667
+                ]
+            },
+            "properties": {
+                "id": "38",
+                "name": "Alexandria",
+                "pleiades": "727070"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.375411,
+                    31.12039
+                ]
+            },
+            "properties": {
+                "id": "39",
+                "name": "Metelis",
+                "pleiades": "727163"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7440385,
+                    31.20015375
+                ]
+            },
+            "properties": {
+                "id": "40",
+                "name": "Buto",
+                "pleiades": "727094"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.167572,
+                    30.982139
+                ]
+            },
+            "properties": {
+                "id": "41",
+                "name": "Herakleopolis Mikra",
+                "pleiades": "727121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.234453,
+                    30.896044
+                ]
+            },
+            "properties": {
+                "id": "42",
+                "name": "Kynopolis Inferior",
+                "pleiades": "727144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.620556,
+                    30.734257
+                ]
+            },
+            "properties": {
+                "id": "43",
+                "name": "Pharbaithos",
+                "pleiades": "727196"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.672164,
+                    30.720511
+                ]
+            },
+            "properties": {
+                "id": "44",
+                "name": "Phakoussa",
+                "pleiades": "727194"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.851018,
+                    30.411529
+                ]
+            },
+            "properties": {
+                "id": "45",
+                "name": "Nikiou",
+                "pleiades": "727174"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.858433,
+                    31.289517
+                ]
+            },
+            "properties": {
+                "id": "46",
+                "name": "Phragonis",
+                "pleiades": "727201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.74459,
+                    31.090569
+                ]
+            },
+            "properties": {
+                "id": "47",
+                "name": "Kabasa",
+                "pleiades": "727133"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.936,
+                    31.158072
+                ]
+            },
+            "properties": {
+                "id": "48",
+                "name": "Panephysis",
+                "pleiades": "727184"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.67065238952637,
+                    30.74840099714537
+                ]
+            },
+            "properties": {
+                "id": "49",
+                "name": "Andronpolis",
+                "pleiades": "727071"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.192032,
+                    31.13965
+                ]
+            },
+            "properties": {
+                "id": "52",
+                "name": "Schedia",
+                "pleiades": "727221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8810025,
+                    27.8105625
+                ]
+            },
+            "properties": {
+                "id": "53",
+                "name": "Antinoupolis",
+                "pleiades": "756518"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9507545,
+                    32.708807
+                ]
+            },
+            "properties": {
+                "id": "54",
+                "name": "Ptolemais",
+                "pleiades": "373879"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.710142,
+                    25.854553
+                ]
+            },
+            "properties": {
+                "id": "55",
+                "name": "Apollonopolis Parva",
+                "pleiades": "785975"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.817991,
+                    27.438183
+                ]
+            },
+            "properties": {
+                "id": "56",
+                "name": "Koussai",
+                "pleiades": "756588"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8214,
+                    29.529099
+                ]
+            },
+            "properties": {
+                "id": "57",
+                "name": "Neiloupolis",
+                "pleiades": "736973"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.55649131,
+                    25.29355461
+                ]
+            },
+            "properties": {
+                "id": "58",
+                "name": "Esna",
+                "pleiades": "786059"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.307667,
+                    26.059231
+                ]
+            },
+            "properties": {
+                "id": "64",
+                "name": "Chenoboskion",
+                "pleiades": "756545"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.38018,
+                    26.0996985
+                ]
+            },
+            "properties": {
+                "id": "66",
+                "name": "Tabennisis",
+                "pleiades": "786125"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.7018756667,
+                    26.1498853333
+                ]
+            },
+            "properties": {
+                "id": "67",
+                "name": "Maximianoupolis",
+                "pleiades": "786047"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4029556,
+                    26.1125346
+                ]
+            },
+            "properties": {
+                "id": "68",
+                "name": "Pbou",
+                "pleiades": "756540"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.543563842773445,
+                    25.622335085000202
+                ]
+            },
+            "properties": {
+                "id": "70",
+                "name": "Hermonthis",
+                "pleiades": "786036"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7083435,
+                    27.5511327
+                ]
+            },
+            "properties": {
+                "id": "73",
+                "name": "Bawit",
+                "pleiades": "756663"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.876986,
+                    29.193771
+                ]
+            },
+            "properties": {
+                "id": "74",
+                "name": "Naqlun",
+                "pleiades": "736975"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.25,
+                    30.75
+                ]
+            },
+            "properties": {
+                "id": "76",
+                "name": "Sketis",
+                "pleiades": "727232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.25,
+                    30.75
+                ]
+            },
+            "properties": {
+                "id": "77",
+                "name": "Nitria",
+                "pleiades": "727177"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.368868,
+                    30.776003
+                ]
+            },
+            "properties": {
+                "id": "78",
+                "name": "Kellia",
+                "pleiades": "727141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5509023,
+                    28.84561505
+                ]
+            },
+            "properties": {
+                "id": "79",
+                "name": "Monastery of St. Paul",
+                "pleiades": "746800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.35,
+                    28.923889
+                ]
+            },
+            "properties": {
+                "id": "80",
+                "name": "Monastery St. Antony",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.238122,
+                    26.0488019
+                ]
+            },
+            "properties": {
+                "id": "83",
+                "name": "Nag Hammadi",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4737,
+                    23.9103
+                ]
+            },
+            "properties": {
+                "id": "84",
+                "name": "Berenike (Upper Egypt)",
+                "pleiades": "785986"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.710172,
+                    25.734239
+                ]
+            },
+            "properties": {
+                "id": "88",
+                "name": "Petemout",
+                "pleiades": "786088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.430636,
+                    31.11593
+                ]
+            },
+            "properties": {
+                "id": "89",
+                "name": "Ostrakine",
+                "pleiades": "687993"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.22027,
+                    26.856142
+                ]
+            },
+            "properties": {
+                "id": "91",
+                "name": "Monastery of St. Thomas at Wadi Sarga",
+                "pleiades": "759543"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.233417391777042,
+                    27.032623439070143
+                ]
+            },
+            "properties": {
+                "id": "92",
+                "name": "Deir el-Bala’izah",
+                "pleiades": "756520"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.816667,
+                    27.444444
+                ]
+            },
+            "properties": {
+                "id": "93",
+                "name": "Deir el-Moharraq",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.884252,
+                    24.025031
+                ]
+            },
+            "properties": {
+                "id": "96",
+                "name": "Philae",
+                "pleiades": "786089"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.864404320716865,
+                    24.180182309792723
+                ]
+            },
+            "properties": {
+                "id": "97",
+                "name": "Deir el-Kubbaniya",
+                "pleiades": "786056"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.890414,
+                    24.103476
+                ]
+            },
+            "properties": {
+                "id": "98",
+                "name": "Deir Qubbat el Hawa",
+                "pleiades": "979588215"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.598744,
+                    29.270347
+                ]
+            },
+            "properties": {
+                "id": "99",
+                "name": "Hamuli\/Monastery of the Archangel Michael at Phantoou",
+                "pleiades": "737001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.506483,
+                    28.910537
+                ]
+            },
+            "properties": {
+                "id": "100",
+                "name": "Gebel el-Qalamun",
+                "pleiades": "737030"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.762808,
+                    29.107063
+                ]
+            },
+            "properties": {
+                "id": "101",
+                "name": "Touton",
+                "pleiades": "737072"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.41559028625489,
+                    26.17176967696689
+                ]
+            },
+            "properties": {
+                "id": "102",
+                "name": "Dishna",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.841893,
+                    26.341487
+                ]
+            },
+            "properties": {
+                "id": "103",
+                "name": "This",
+                "pleiades": "756659"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.641461,
+                    29.191783
+                ]
+            },
+            "properties": {
+                "id": "104",
+                "name": "Medinet Madi",
+                "pleiades": "736972"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.008467,
+                    29.541142
+                ]
+            },
+            "properties": {
+                "id": "105",
+                "name": "Bakchias",
+                "pleiades": "736896"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.897603,
+                    29.5164395
+                ]
+            },
+            "properties": {
+                "id": "106",
+                "name": "Karanis",
+                "pleiades": "736932"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.668916,
+                    29.5334745
+                ]
+            },
+            "properties": {
+                "id": "107",
+                "name": "Soknopaiou Nesos",
+                "pleiades": "737053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.906827,
+                    27.787299
+                ]
+            },
+            "properties": {
+                "id": "108",
+                "name": "Deir Abu Lifah",
+                "pleiades": "756549"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.906827,
+                    27.787299
+                ]
+            },
+            "properties": {
+                "id": "109",
+                "name": "Deir Abu Hennes Wadi Gamus",
+                "pleiades": "756549"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.476111,
+                    30.291389
+                ]
+            },
+            "properties": {
+                "id": "110",
+                "name": "Wadi Natrun",
+                "pleiades": "727104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.619686,
+                    26.554931
+                ]
+            },
+            "properties": {
+                "id": "113",
+                "name": "Red Monastery at Atripe",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0756475,
+                    25.517958
+                ]
+            },
+            "properties": {
+                "id": "114",
+                "name": "Kellis",
+                "pleiades": "776189"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.555041721090678,
+                    25.485793102583216
+                ]
+            },
+            "properties": {
+                "id": "115",
+                "name": "Bagawat",
+                "pleiades": "776156"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.662742,
+                    30.841158
+                ]
+            },
+            "properties": {
+                "id": "116",
+                "name": "Abu Mina",
+                "pleiades": "727105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.012034,
+                    30.823446
+                ]
+            },
+            "properties": {
+                "id": "117",
+                "name": "Marina el Alamein",
+                "pleiades": "716524"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.417435,
+                    29.40642
+                ]
+            },
+            "properties": {
+                "id": "119",
+                "name": "Dionysias",
+                "pleiades": "736904"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.467953,
+                    29.383026
+                ]
+            },
+            "properties": {
+                "id": "120",
+                "name": "Philoteris",
+                "pleiades": "737010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.562937,
+                    29.346942
+                ]
+            },
+            "properties": {
+                "id": "121",
+                "name": "Theadelphia",
+                "pleiades": "737081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.89923,
+                    29.272822
+                ]
+            },
+            "properties": {
+                "id": "122",
+                "name": "Hawara",
+                "pleiades": "736918"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.968603,
+                    29.206382
+                ]
+            },
+            "properties": {
+                "id": "123",
+                "name": "El-Lahun",
+                "pleiades": "737029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.796926,
+                    31.111755
+                ]
+            },
+            "properties": {
+                "id": "126",
+                "name": "Rinokoloura",
+                "pleiades": "688016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.92746,
+                    31.358242
+                ]
+            },
+            "properties": {
+                "id": "127",
+                "name": "Pachnemounis",
+                "pleiades": "727183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.901491,
+                    24.0885745
+                ]
+            },
+            "properties": {
+                "id": "128",
+                "name": "Syene",
+                "pleiades": "786123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.815779,
+                    30.432395
+                ]
+            },
+            "properties": {
+                "id": "131",
+                "name": "Terenouthis",
+                "pleiades": "727244"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.02028,
+                    31.58128
+                ]
+            },
+            "properties": {
+                "id": "132",
+                "name": "Paralos",
+                "pleiades": "727224"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.812588,
+                    31.417068
+                ]
+            },
+            "properties": {
+                "id": "133",
+                "name": "Tamiathis",
+                "pleiades": "727235"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.171528,
+                    30.8610335
+                ]
+            },
+            "properties": {
+                "id": "135",
+                "name": "Daphnai",
+                "pleiades": "727103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.292698,
+                    31.255258
+                ]
+            },
+            "properties": {
+                "id": "138",
+                "name": "Thennesos",
+                "pleiades": "727247"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5601425,
+                    29.9701405
+                ]
+            },
+            "properties": {
+                "id": "140",
+                "name": "Clysma",
+                "pleiades": "727101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5919275,
+                    30.900508
+                ]
+            },
+            "properties": {
+                "id": "141",
+                "name": "Naukratis",
+                "pleiades": "727169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2301075,
+                    30.005783
+                ]
+            },
+            "properties": {
+                "id": "144",
+                "name": "Babylon",
+                "pleiades": "727082"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.850314,
+                    31.210588
+                ]
+            },
+            "properties": {
+                "id": "145",
+                "name": "Hephaistos",
+                "pleiades": "727119"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.302068,
+                    29.728688
+                ]
+            },
+            "properties": {
+                "id": "146",
+                "name": "Skenai Mandrai",
+                "pleiades": "737050"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2368445,
+                    31.350136
+                ]
+            },
+            "properties": {
+                "id": "150",
+                "name": "Paraitonion",
+                "pleiades": "716615"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.409102,
+                    31.506636
+                ]
+            },
+            "properties": {
+                "id": "152",
+                "name": "Zygrai",
+                "pleiades": "716656"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7304627764,
+                    25.5967547643
+                ]
+            },
+            "properties": {
+                "id": "154",
+                "name": "Oasis Magna",
+                "pleiades": "776210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.75,
+                    30.25
+                ]
+            },
+            "properties": {
+                "id": "155",
+                "name": "Prosopites",
+                "pleiades": "727206"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.366982,
+                    30.849572
+                ]
+            },
+            "properties": {
+                "id": "156",
+                "name": "Sile",
+                "pleiades": "727231"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.700194,
+                    30.475859
+                ]
+            },
+            "properties": {
+                "id": "157",
+                "name": "Boreum",
+                "pleiades": "363948"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0699815,
+                    32.1139055
+                ]
+            },
+            "properties": {
+                "id": "158",
+                "name": "Berenike (Lower Egypt)",
+                "pleiades": "373757"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5672976667,
+                    32.5363993333
+                ]
+            },
+            "properties": {
+                "id": "159",
+                "name": "Taucheira",
+                "pleiades": "373736"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8717433333,
+                    32.4996533333
+                ]
+            },
+            "properties": {
+                "id": "160",
+                "name": "Barke",
+                "pleiades": "373750"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.961371,
+                    32.076457
+                ]
+            },
+            "properties": {
+                "id": "162",
+                "name": "Antipyrgos",
+                "pleiades": "716525"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5,
+                    31.5
+                ]
+            },
+            "properties": {
+                "id": "163",
+                "name": "Bassachitai?",
+                "pleiades": "716534"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3072025,
+                    32.35204
+                ]
+            },
+            "properties": {
+                "id": "164",
+                "name": "Hadrianopolis",
+                "pleiades": "373824"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2786287667,
+                    32.869317
+                ]
+            },
+            "properties": {
+                "id": "165",
+                "name": "Erythron",
+                "pleiades": "373785"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.91627145,
+                    26.1859907667
+                ]
+            },
+            "properties": {
+                "id": "166",
+                "name": "Abydos Deir Abu Masis",
+                "pleiades": "756550"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.52226436138154,
+                    35.28739033835403
+                ]
+            },
+            "properties": {
+                "id": "170",
+                "name": "Monastery of St. Macarius at Cyprus",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.899569,
+                    27.645956
+                ]
+            },
+            "properties": {
+                "id": "171",
+                "name": "Amarna",
+                "pleiades": "149576487"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.875248,
+                    27.931376
+                ]
+            },
+            "properties": {
+                "id": "172",
+                "name": "Beni Hassan",
+                "pleiades": "112509596"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8688762215,
+                    25.6674996828
+                ]
+            },
+            "properties": {
+                "id": "173",
+                "name": "Dakhleh",
+                "pleiades": "776172"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8647631769,
+                    25.6667788988
+                ]
+            },
+            "properties": {
+                "id": "174",
+                "name": "Trimouthis",
+                "pleiades": "776235"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.04524722,
+                    25.54008889
+                ]
+            },
+            "properties": {
+                "id": "175",
+                "name": "Dakleh Ain el Gedida",
+                "pleiades": "861854258"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.9120129,
+                    25.5936295
+                ]
+            },
+            "properties": {
+                "id": "176",
+                "name": "Deir abu Matta",
+                "pleiades": "667956220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8732936296,
+                    24.9795361111
+                ]
+            },
+            "properties": {
+                "id": "179",
+                "name": "Tell Edfu",
+                "pleiades": "785974"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.553208,
+                    24.697134
+                ]
+            },
+            "properties": {
+                "id": "181",
+                "name": "Imbaba el Mansuriya ",
+                "pleiades": "776197"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7304627764,
+                    25.5967547643
+                ]
+            },
+            "properties": {
+                "id": "183",
+                "name": "Kharga",
+                "pleiades": "776210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7304634591,
+                    25.5967488622
+                ]
+            },
+            "properties": {
+                "id": "184",
+                "name": "El-Deir",
+                "pleiades": "776167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.553476,
+                    25.438054
+                ]
+            },
+            "properties": {
+                "id": "185",
+                "name": "Hibis",
+                "pleiades": "776181"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9282444444,
+                    24.4520527778
+                ]
+            },
+            "properties": {
+                "id": "186",
+                "name": "Kom Ombo",
+                "pleiades": "786079"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.858,
+                    24.2261
+                ]
+            },
+            "properties": {
+                "id": "187",
+                "name": "Nag el Hagar",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.634729385375984,
+                    28.704177127753187
+                ]
+            },
+            "properties": {
+                "id": "188",
+                "name": "Pharan",
+                "pleiades": "746792"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.61875152587891,
+                    25.726921100398066
+                ]
+            },
+            "properties": {
+                "id": "191",
+                "name": "Western Thebes",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60215385016636,
+                    25.72891670656693
+                ]
+            },
+            "properties": {
+                "id": "194",
+                "name": "Monastery of Saint Isidorus Martyr at Deir el Medina",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60210037231446,
+                    25.7409301569811
+                ]
+            },
+            "properties": {
+                "id": "202",
+                "name": "Valley of the Kings",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.379225,
+                    30.300424
+                ]
+            },
+            "properties": {
+                "id": "204",
+                "name": "Wadi Natrun Monastery of John the Little ",
+                "pleiades": "727232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.270818592980508,
+                    30.357098369275192
+                ]
+            },
+            "properties": {
+                "id": "205",
+                "name": "Wadi Natrun Monastery of Baramus",
+                "pleiades": "727232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3600404,
+                    30.3190634
+                ]
+            },
+            "properties": {
+                "id": "206",
+                "name": "Wadi Natrun Monastery of the Syrians",
+                "pleiades": "727232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.25,
+                    30.75
+                ]
+            },
+            "properties": {
+                "id": "207",
+                "name": "Wadi Natrun Monastery of Moses",
+                "pleiades": "727232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.416623,
+                    26.833145
+                ]
+            },
+            "properties": {
+                "id": "209",
+                "name": "Aphrodite",
+                "pleiades": "756532"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607072,
+                    29.27687
+                ]
+            },
+            "properties": {
+                "id": "211",
+                "name": "Philagris",
+                "pleiades": "737001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.866656,
+                    27.899952
+                ]
+            },
+            "properties": {
+                "id": "212",
+                "name": "Speos Artemidos",
+                "pleiades": "756647"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.84577,
+                    27.730769
+                ]
+            },
+            "properties": {
+                "id": "213",
+                "name": "Mallawi",
+                "pleiades": "756599"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9,
+                    27.75
+                ]
+            },
+            "properties": {
+                "id": "214",
+                "name": "Deir el-Bersha",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.906827,
+                    27.787299
+                ]
+            },
+            "properties": {
+                "id": "215",
+                "name": "Deir Abu Hennes",
+                "pleiades": "756549"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.878834724426273,
+                    27.825641516193073
+                ]
+            },
+            "properties": {
+                "id": "216",
+                "name": "Deir Sumbat",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8612058,
+                    27.8293788
+                ]
+            },
+            "properties": {
+                "id": "217",
+                "name": "Deir al-Dik",
+                "pleiades": "756557 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.113055,
+                    27.183617
+                ]
+            },
+            "properties": {
+                "id": "169",
+                "name": "Manqabad",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.6088796555996,
+                    25.73279384570751
+                ]
+            },
+            "properties": {
+                "id": "200",
+                "name": "Monastery of Cyriacus",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.62214720249177,
+                    25.737982545077216
+                ]
+            },
+            "properties": {
+                "id": "192",
+                "name": "Deir el Bakhit",
+                "pleiades": "786014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.62450218200684,
+                    25.73880885021501
+                ]
+            },
+            "properties": {
+                "id": "222",
+                "name": "Western Thebes Winlock - Crum site 26",
+                "pleiades": "786014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59454391896725,
+                    25.72874601971433
+                ]
+            },
+            "properties": {
+                "id": "195",
+                "name": "Deir el Rumi",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.62381553649903,
+                    25.73904079448421
+                ]
+            },
+            "properties": {
+                "id": "223",
+                "name": "Western Thebes Winlock - Crum site 27",
+                "pleiades": "786014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.607459425926216,
+                    25.731620769593572
+                ]
+            },
+            "properties": {
+                "id": "224",
+                "name": "Western Thebes TT 97",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.75,
+                    27.25
+                ]
+            },
+            "properties": {
+                "id": "225",
+                "name": "Lykopolites nomòs",
+                "pleiades": "756594"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.62455582618714,
+                    25.739490185217587
+                ]
+            },
+            "properties": {
+                "id": "227",
+                "name": "Western Thebes Winlock - Crum sites 30-32 (site 33)",
+                "pleiades": "786014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60867446660996,
+                    25.730514128993043
+                ]
+            },
+            "properties": {
+                "id": "226",
+                "name": "Western Thebes TT 56",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.6226568222046,
+                    25.737301201431517
+                ]
+            },
+            "properties": {
+                "id": "228",
+                "name": "Western Thebes K 131 [K93.11] - K 130 [K93.12]",
+                "pleiades": "786014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60718852281571,
+                    25.73147458730996
+                ]
+            },
+            "properties": {
+                "id": "221",
+                "name": "Western Thebes TT 99",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.62499570846558,
+                    25.745245135662262
+                ]
+            },
+            "properties": {
+                "id": "230",
+                "name": "Western Thebes Winlock - Crum site 29",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.607623040676124,
+                    25.733140571446548
+                ]
+            },
+            "properties": {
+                "id": "229",
+                "name": "Western Thebes TT 72",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.62661576271058,
+                    25.737267375758677
+                ]
+            },
+            "properties": {
+                "id": "232",
+                "name": "Western Thebes [K91.1]",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.607459425926216,
+                    25.73282404833822
+                ]
+            },
+            "properties": {
+                "id": "233",
+                "name": "Western Thebes TT 75",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60753586888314,
+                    25.732240532154766
+                ]
+            },
+            "properties": {
+                "id": "236",
+                "name": "Western Thebes TT 82",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60774843394756,
+                    25.73206535592992
+                ]
+            },
+            "properties": {
+                "id": "235",
+                "name": "Western Thebes TT 225",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60699406266213,
+                    25.731149602911536
+                ]
+            },
+            "properties": {
+                "id": "199",
+                "name": "Western Thebes TT 29",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.618760913610465,
+                    25.736264681799057
+                ]
+            },
+            "properties": {
+                "id": "237",
+                "name": "Western Thebes TT 35",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.606855928897865,
+                    25.731397267682333
+                ]
+            },
+            "properties": {
+                "id": "239",
+                "name": "Western Thebes TT 96",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.6188749074936,
+                    25.736276762499497
+                ]
+            },
+            "properties": {
+                "id": "240",
+                "name": "Western Thebes TT 160",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60683178901673,
+                    25.7312873287502
+                ]
+            },
+            "properties": {
+                "id": "220",
+                "name": "Western Thebes TT 95",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.61959910392762,
+                    25.73606897428054
+                ]
+            },
+            "properties": {
+                "id": "219",
+                "name": "Western Thebes TT 157",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.607028931379325,
+                    25.730992546935898
+                ]
+            },
+            "properties": {
+                "id": "196",
+                "name": "Western Thebes TT C3",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.61902511119843,
+                    25.736413274329372
+                ]
+            },
+            "properties": {
+                "id": "241",
+                "name": "Western Thebes TT 158",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.618477940559394,
+                    25.73627072214943
+                ]
+            },
+            "properties": {
+                "id": "242",
+                "name": "Western Thebes TT 282",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.655,
+                    28.5429
+                ]
+            },
+            "properties": {
+                "id": "243",
+                "name": "Oxyrhynchites nomòs",
+                "pleiades": "736982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.61900633573533,
+                    25.73604481283615
+                ]
+            },
+            "properties": {
+                "id": "244",
+                "name": "Western Thebes TT 288 - 289",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60810315608979,
+                    25.734092551899213
+                ]
+            },
+            "properties": {
+                "id": "198",
+                "name": "Monastery of Epiphanius",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.62390136718751,
+                    25.736513543980628
+                ]
+            },
+            "properties": {
+                "id": "245",
+                "name": "Western Thebes TT 20",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60715633630753,
+                    25.731717418938537
+                ]
+            },
+            "properties": {
+                "id": "251",
+                "name": "Western Thebes TT 84",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.606737241148956,
+                    25.731544658179075
+                ]
+            },
+            "properties": {
+                "id": "252",
+                "name": "Western Thebes TT 94",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60748893022538,
+                    25.732032736880242
+                ]
+            },
+            "properties": {
+                "id": "248",
+                "name": "Western Thebes TT 86",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60735347867013,
+                    25.731920382307266
+                ]
+            },
+            "properties": {
+                "id": "250",
+                "name": "Western Thebes TT 85, TT 87",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.606376484036446,
+                    25.731658825282537
+                ]
+            },
+            "properties": {
+                "id": "253",
+                "name": "Western Thebes TT 92",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60644286870957,
+                    25.731706545891175
+                ]
+            },
+            "properties": {
+                "id": "254",
+                "name": "Western Thebes TT 367",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.612936496734626,
+                    25.733353197183504
+                ]
+            },
+            "properties": {
+                "id": "256",
+                "name": "Western Thebes TT 373",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.606708407402046,
+                    25.73127524754265
+                ]
+            },
+            "properties": {
+                "id": "257",
+                "name": "Western Thebes K 85",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.61347025632859,
+                    25.733027009817597
+                ]
+            },
+            "properties": {
+                "id": "258",
+                "name": "Western Thebes TT 49",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.61271387338639,
+                    25.731980788004858
+                ]
+            },
+            "properties": {
+                "id": "260",
+                "name": "Western Thebes TT 32",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.612795680761344,
+                    25.73218254281237
+                ]
+            },
+            "properties": {
+                "id": "261",
+                "name": "Western Thebes TT 183",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60201588273049,
+                    25.742373735320143
+                ]
+            },
+            "properties": {
+                "id": "259",
+                "name": "Western Thebes KV 1",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60288760066033,
+                    25.740718752823366
+                ]
+            },
+            "properties": {
+                "id": "263",
+                "name": "Western Thebes KV 4",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60265558958054,
+                    25.741012302495236
+                ]
+            },
+            "properties": {
+                "id": "262",
+                "name": "Western Thebes KV 3",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.628713,
+                    29.19691
+                ]
+            },
+            "properties": {
+                "id": "264",
+                "name": "Ghoran",
+                "pleiades": "736942"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.61177778244019,
+                    25.738779857149545
+                ]
+            },
+            "properties": {
+                "id": "265",
+                "name": "Western Thebes TT 240 (=MMA 517)",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60967493057252,
+                    25.738876500673616
+                ]
+            },
+            "properties": {
+                "id": "266",
+                "name": "Western Thebes TT 312 (=MMA 509)",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.61342465877534,
+                    25.733623811207778
+                ]
+            },
+            "properties": {
+                "id": "255",
+                "name": "Western Thebes TT 39",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60643482208253,
+                    25.729245587249036
+                ]
+            },
+            "properties": {
+                "id": "267",
+                "name": "Western Thebes TT 223",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.602266669273384,
+                    25.741394036786364
+                ]
+            },
+            "properties": {
+                "id": "269",
+                "name": "Western Thebes KV 2",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60206013917924,
+                    25.74066197564265
+                ]
+            },
+            "properties": {
+                "id": "270",
+                "name": "Western Thebes KV 5",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.601976990699775,
+                    25.740577413833847
+                ]
+            },
+            "properties": {
+                "id": "271",
+                "name": "Western Thebes KV 6",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60141372680665,
+                    25.740268158706364
+                ]
+            },
+            "properties": {
+                "id": "268",
+                "name": "Western Thebes KV 9",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60109722614289,
+                    25.74073204109579
+                ]
+            },
+            "properties": {
+                "id": "272",
+                "name": "Western Thebes KV 8",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.592750191688545,
+                    25.74130222738532
+                ]
+            },
+            "properties": {
+                "id": "273",
+                "name": "Western Thebes KV 24",
+                "pleiades": "384697574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60838210582734,
+                    25.739035962316542
+                ]
+            },
+            "properties": {
+                "id": "275",
+                "name": "Western Thebes TT 310 (=MMA505)",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.65834093093873,
+                    25.71815433161283
+                ]
+            },
+            "properties": {
+                "id": "182",
+                "name": "Karnak",
+                "pleiades": "786017, 786050"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.639831006526954,
+                    25.700386836574737
+                ]
+            },
+            "properties": {
+                "id": "19",
+                "name": "Luxor complex",
+                "pleiades": "786017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.610222101211555,
+                    25.727713654034957
+                ]
+            },
+            "properties": {
+                "id": "277",
+                "name": "Western Thebes Mortuary complex of Ramses II",
+                "pleiades": "963047542"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.62851476669312,
+                    25.73249785952038
+                ]
+            },
+            "properties": {
+                "id": "278",
+                "name": "Western Thebes Mortuary Temple of Seti I",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60391220450402,
+                    25.7269319738831
+                ]
+            },
+            "properties": {
+                "id": "201",
+                "name": "Monastery of St. Marcus",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60641872882844,
+                    25.738354624709928
+                ]
+            },
+            "properties": {
+                "id": "193",
+                "name": "Monastery of St. Phoibammon",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.516870498657234,
+                    25.73503969239785
+                ]
+            },
+            "properties": {
+                "id": "210",
+                "name": "Topos of Apa Phoibammon in the Rock",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60217010974885,
+                    25.7321668373606
+                ]
+            },
+            "properties": {
+                "id": "82",
+                "name": "Western Thebes MMA 1152",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.600480318069465,
+                    25.719990863695134
+                ]
+            },
+            "properties": {
+                "id": "87",
+                "name": "Medinet Habu",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60332882404328,
+                    25.728266988655896
+                ]
+            },
+            "properties": {
+                "id": "280",
+                "name": "Northern Qurnet Murrai",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.883335,
+                    27.716657
+                ]
+            },
+            "properties": {
+                "id": "86",
+                "name": "Deir el-Qaddis Abu Bifam",
+                "pleiades": "756547"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.57839500904084,
+                    25.69523154326589
+                ]
+            },
+            "properties": {
+                "id": "281",
+                "name": "Deir el-Shelwit",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60233396719742,
+                    25.72837473271841
+                ]
+            },
+            "properties": {
+                "id": "284",
+                "name": "Western Thebes DeM 1437",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60322824120522,
+                    25.730537083433266
+                ]
+            },
+            "properties": {
+                "id": "283",
+                "name": "Western Thebes Winlock - Crum site 6",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60234713554383,
+                    25.728366057028037
+                ]
+            },
+            "properties": {
+                "id": "285",
+                "name": "Western Thebes DeM 1438",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60209135599781,
+                    25.72848038303239
+                ]
+            },
+            "properties": {
+                "id": "286",
+                "name": "Western Thebes Ramesside votive chapel",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60281564087563,
+                    25.728316693190962
+                ]
+            },
+            "properties": {
+                "id": "288",
+                "name": "Western Thebes DeM 1450",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.602947137629606,
+                    25.728131936589126
+                ]
+            },
+            "properties": {
+                "id": "289",
+                "name": "Western Thebes DeM 1449",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.602906904494375,
+                    25.728136769200063
+                ]
+            },
+            "properties": {
+                "id": "290",
+                "name": "Western Thebes DeM 1447",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.602849237000555,
+                    25.728170597471006
+                ]
+            },
+            "properties": {
+                "id": "292",
+                "name": "Western Thebes DeM 1446",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59452179074288,
+                    25.7276496216964
+                ]
+            },
+            "properties": {
+                "id": "291",
+                "name": "Western Thebes QV 1",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.594262957572944,
+                    25.727730568231827
+                ]
+            },
+            "properties": {
+                "id": "293",
+                "name": "Western Thebes QV 2",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5935434550047,
+                    25.72766834813862
+                ]
+            },
+            "properties": {
+                "id": "294",
+                "name": "Western Thebes QV 12",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59325847029687,
+                    25.727470814228866
+                ]
+            },
+            "properties": {
+                "id": "295",
+                "name": "Western Thebes QV 22",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59321957826615,
+                    25.727490144778876
+                ]
+            },
+            "properties": {
+                "id": "296",
+                "name": "Western Thebes QV 21",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60246381163598,
+                    25.728316522852285
+                ]
+            },
+            "properties": {
+                "id": "297",
+                "name": "Western Thebes DeM 1451",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59327188134194,
+                    25.727960117808614
+                ]
+            },
+            "properties": {
+                "id": "300",
+                "name": "Western Thebes QV 73",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59268581867219,
+                    25.72766170327236
+                ]
+            },
+            "properties": {
+                "id": "299",
+                "name": "Western Thebes QV 60",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60073359626404,
+                    25.727785060929858
+                ]
+            },
+            "properties": {
+                "id": "302",
+                "name": "Western Thebes DeM 1346",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.600228147530295,
+                    25.729154010033675
+                ]
+            },
+            "properties": {
+                "id": "303",
+                "name": "Western Thebes DeM 1006",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59252756834031,
+                    25.72767136853225
+                ]
+            },
+            "properties": {
+                "id": "298",
+                "name": "Western Thebes QV 58",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60035394860097,
+                    25.728147589407524
+                ]
+            },
+            "properties": {
+                "id": "304",
+                "name": "Western Thebes TT 336",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59387269616128,
+                    25.727992737975658
+                ]
+            },
+            "properties": {
+                "id": "301",
+                "name": "Western Thebes QV 79",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.609890848398216,
+                    25.731838230509293
+                ]
+            },
+            "properties": {
+                "id": "308",
+                "name": "Western Thebes TT 52",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60810315608979,
+                    25.7320049502753
+                ]
+            },
+            "properties": {
+                "id": "307",
+                "name": "Western Thebes TT 46",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60072582401335,
+                    25.72833435273632
+                ]
+            },
+            "properties": {
+                "id": "309",
+                "name": "Western Thebes DeM 1147",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60071165859699,
+                    25.728337061415484
+                ]
+            },
+            "properties": {
+                "id": "310",
+                "name": "Western Thebes DeM 1148",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.600712355301766,
+                    25.728305840387474
+                ]
+            },
+            "properties": {
+                "id": "311",
+                "name": "Western Thebes DeM 1150",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60141285783903,
+                    25.729254650705997
+                ]
+            },
+            "properties": {
+                "id": "312",
+                "name": "Western Thebes DeM 1197",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59245246648789,
+                    25.726917475902834
+                ]
+            },
+            "properties": {
+                "id": "305",
+                "name": "Western Thebes QV 44",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60923773050309,
+                    25.732734648529043
+                ]
+            },
+            "properties": {
+                "id": "314",
+                "name": "Western Thebes TT 251",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.601966261864995,
+                    25.729457011812954
+                ]
+            },
+            "properties": {
+                "id": "313",
+                "name": "Western Thebes DeM 2002 - DeM 2003 - DeM 2004",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60058760643006,
+                    25.717008901194145
+                ]
+            },
+            "properties": {
+                "id": "316",
+                "name": "Qasr el-Agouz",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60207736349785,
+                    25.728370741970426
+                ]
+            },
+            "properties": {
+                "id": "317",
+                "name": "Western Thebes DeM 1401",
+                "pleiades": "864788873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.60224461717244,
+                    25.728404538024336
+                ]
+            },
+            "properties": {
+                "id": "319",
+                "name": "Western Thebes DeM 1400",
+                "pleiades": "864388873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.59258235860543,
+                    25.72756630705647
+                ]
+            },
+            "properties": {
+                "id": "321",
+                "name": "Western Thebes QV hamlet",
+                "pleiades": "786067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.599584579467777,
+                    31.22395859822874
+                ]
+            },
+            "properties": {
+                "id": "325",
+                "name": "Koprithis",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.466568470001224,
+                    31.25388185476643
+                ]
+            },
+            "properties": {
+                "id": "326",
+                "name": "Kom Sidi Uqba",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.95058917999268,
+                    31.08822202469153
+                ]
+            },
+            "properties": {
+                "id": "4",
+                "name": "Xois",
+                "pleiades": "727256"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.332707405069876,
+                    30.293479158379245
+                ]
+            },
+            "properties": {
+                "id": "328",
+                "name": "Leontopolis (Tell el-Yahudiya)",
+                "pleiades": "727146"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9345817565918,
+                    30.46643043369801
+                ]
+            },
+            "properties": {
+                "id": "51",
+                "name": "Onouphis Ano",
+                "pleiades": "730134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.965652465820316,
+                    30.883001015521867
+                ]
+            },
+            "properties": {
+                "id": "50",
+                "name": "Onouphis Kato",
+                "pleiades": "730134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.514901127936817,
+                    30.9587532687006
+                ]
+            },
+            "properties": {
+                "id": "329",
+                "name": "Mendes",
+                "pleiades": "727156"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.571273803056105,
+                    31.259769989633373
+                ]
+            },
+            "properties": {
+                "id": "14",
+                "name": "Tell el-Balamun",
+                "pleiades": "727111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5148401260376,
+                    30.57077834025796
+                ]
+            },
+            "properties": {
+                "id": "15",
+                "name": "Bubastis",
+                "pleiades": "727088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.172684803605087,
+                    27.162322814871555
+                ]
+            },
+            "properties": {
+                "id": "94",
+                "name": "Gebel Assiut el-Gharbi",
+                "pleiades": "756593"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.518675804138184,
+                    30.946236829182347
+                ]
+            },
+            "properties": {
+                "id": "338",
+                "name": "Taposiris Magna",
+                "pleiades": "7272741"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.644315719604496,
+                    26.534057544367265
+                ]
+            },
+            "properties": {
+                "id": "112",
+                "name": "Monastery of Shenoute at Atripe",
+                "pleiades": "756530"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.666667,
+                    26.516667
+                ]
+            },
+            "properties": {
+                "id": "339",
+                "name": "Female Monastery at Atripe",
+                "pleiades": "756538"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.219298243522648,
+                    29.866160918578828
+                ]
+            },
+            "properties": {
+                "id": "75",
+                "name": "Monastery of Apa Jeremiah",
+                "pleiades": "736963"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.656394,
+                    30.99482
+                ]
+            },
+            "properties": {
+                "id": "143",
+                "name": "Marea",
+                "pleiades": "727153"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1436592126,
+                    29.9660697534
+                ]
+            },
+            "properties": {
+                "id": "274",
+                "name": "Giza",
+                "pleiades": "442962448"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.83985137939454,
+                    24.97423218002226
+                ]
+            },
+            "properties": {
+                "id": "95",
+                "name": "Hagr Edfu",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.907661,
+                    25.548988
+                ]
+            },
+            "properties": {
+                "id": "287",
+                "name": "el-Qalamun (Dakhla)",
+                "pleiades": "776188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.716666,
+                    25.9
+                ]
+            },
+            "properties": {
+                "id": "90",
+                "name": "Naqada",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.475859642028812,
+                    30.291607843703723
+                ]
+            },
+            "properties": {
+                "id": "208",
+                "name": "Wadi Natrun Monastery of St. Macarius",
+                "pleiades": "727232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8764433,
+                    24.0946215
+                ]
+            },
+            "properties": {
+                "id": "72",
+                "name": "Deir Anba Hadra \/ St. Simeon",
+                "pleiades": "786106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.723889,
+                    29.121111
+                ]
+            },
+            "properties": {
+                "id": "345",
+                "name": "Talit",
+                "pleiades": "737065"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.996836,
+                    29.243846
+                ]
+            },
+            "properties": {
+                "id": "336",
+                "name": "Deir el-Hammam",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.588404,
+                    29.132354
+                ]
+            },
+            "properties": {
+                "id": "327",
+                "name": "Magdola",
+                "pleiades": "736956"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.713324,
+                    28.299147
+                ]
+            },
+            "properties": {
+                "id": "349",
+                "name": "Samalut",
+                "pleiades": "737054"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.75558141406214,
+                    31.24163511257972
+                ]
+            },
+            "properties": {
+                "id": "350",
+                "name": "Tell el-Burashiya",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.316721439341116,
+                    31.244874686005723
+                ]
+            },
+            "properties": {
+                "id": "351",
+                "name": "Kom Yetwal wa Yuksur",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.740191,
+                    18.199038
+                ]
+            },
+            "properties": {
+                "id": "359",
+                "name": "Dongola",
+                "pleiades": "865674318"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.498587,
+                    22.204049
+                ]
+            },
+            "properties": {
+                "id": "358",
+                "name": "Faras",
+                "pleiades": "795838"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.483333,
+                    26.916667
+                ]
+            },
+            "properties": {
+                "id": "147",
+                "name": "Hamamieh",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.623992,
+                    22.379013
+                ]
+            },
+            "properties": {
+                "id": "362",
+                "name": "Abdallah-n Irqi",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.700577735900882,
+                    26.672579777646654
+                ]
+            },
+            "properties": {
+                "id": "367",
+                "name": "Deir Mar Tumas",
+                "pleiades": "795886"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.37,
+                    22.57
+                ]
+            },
+            "properties": {
+                "id": "366",
+                "name": "Naga el-Sheima",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.89036285877228,
+                    27.798658228620496
+                ]
+            },
+            "properties": {
+                "id": "368",
+                "name": "Upper Ansina",
+                "pleiades": "756518"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.283333333333335,
+                    21.766666666666666
+                ]
+            },
+            "properties": {
+                "id": "363",
+                "name": "Wadi Halfa",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.294083595275882,
+                    29.903386052641643
+                ]
+            },
+            "properties": {
+                "id": "370",
+                "name": "Helwan",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.473318,
+                    25.669309
+                ]
+            },
+            "properties": {
+                "id": "372",
+                "name": "Deir el-Misaykra",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4833,
+                    25.6667
+                ]
+            },
+            "properties": {
+                "id": "373",
+                "name": "Deir el-Namus",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.45621,
+                    25.645327
+                ]
+            },
+            "properties": {
+                "id": "374",
+                "name": "Deir el-Matmar",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.619725,
+                    26.554811
+                ]
+            },
+            "properties": {
+                "id": "375",
+                "name": "Karbone",
+                "pleiades": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.55798339843751,
+                    25.70039650405056
+                ]
+            },
+            "properties": {
+                "id": "377",
+                "name": "Kola el-Hamra",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.703722,
+                    25.848278
+                ]
+            },
+            "properties": {
+                "id": "381",
+                "name": "Deir el-Salib",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.705548,
+                    25.815451
+                ]
+            },
+            "properties": {
+                "id": "380",
+                "name": "Deir Mar Buqtur",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.696639,
+                    25.800631
+                ]
+            },
+            "properties": {
+                "id": "383",
+                "name": "Deir el-Malek Mikhail (Qibli Qamula)",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.70007,
+                    25.83439
+                ]
+            },
+            "properties": {
+                "id": "384",
+                "name": "Deir Mar Girgis el-Magmaʿ",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.70007,
+                    25.83439
+                ]
+            },
+            "properties": {
+                "id": "384",
+                "name": "Deir Mar Girgis el-Magmaʿ",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4489,
+                    29.4694
+                ]
+            },
+            "properties": {
+                "id": "385",
+                "name": "Deir Abu Darag",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.68319,
+                    29.36476
+                ]
+            },
+            "properties": {
+                "id": "355",
+                "name": "Pishai",
+                "pleiades": "737015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.08334444,
+                    25.50283333
+                ]
+            },
+            "properties": {
+                "id": "386",
+                "name": "'Ain el-Sabil",
+                "pleiades": "551781152"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.851944,
+                    29.263333
+                ]
+            },
+            "properties": {
+                "id": "387",
+                "name": "Deir el-Azab",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54908,
+                    25.50654
+                ]
+            },
+            "properties": {
+                "id": "388",
+                "name": "'Ain Saafa",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5055803,
+                    19.103428
+                ]
+            },
+            "properties": {
+                "id": "389",
+                "name": "Sur SR022.A",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.95,
+                    30.805
+                ]
+            },
+            "properties": {
+                "id": "390",
+                "name": "Tell el-Abiad",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4225,
+                    30.834722
+                ]
+            },
+            "properties": {
+                "id": "391",
+                "name": "Kom Abu Ali",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.141667,
+                    30.925278
+                ]
+            },
+            "properties": {
+                "id": "392",
+                "name": "Tell Abu el-Gudur",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.083889,
+                    30.94
+                ]
+            },
+            "properties": {
+                "id": "393",
+                "name": "Kom el-Adda",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.815278,
+                    30.808333
+                ]
+            },
+            "properties": {
+                "id": "394",
+                "name": "Tell Abu el Sobh",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.724167,
+                    30.932222
+                ]
+            },
+            "properties": {
+                "id": "395",
+                "name": "Tell Abu Husa",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.313889,
+                    31.015278
+                ]
+            },
+            "properties": {
+                "id": "396",
+                "name": "Kom Abu Ismail",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.9167,
+                    30.8833
+                ]
+            },
+            "properties": {
+                "id": "397",
+                "name": "Tell Abu Kharufa",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.829167,
+                    30.825
+                ]
+            },
+            "properties": {
+                "id": "398",
+                "name": "Tell Abu Qirdan",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0166707,
+                    22.6499972
+                ]
+            },
+            "properties": {
+                "id": "189",
+                "name": "Qasr Ibrim",
+                "pleiades": "798094"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8375,
+                    30.805556
+                ]
+            },
+            "properties": {
+                "id": "399",
+                "name": "Tell Abu Shafei",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.704167,
+                    30.8575
+                ]
+            },
+            "properties": {
+                "id": "400",
+                "name": "Tell Abu Umran",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.025556,
+                    31.576111
+                ]
+            },
+            "properties": {
+                "id": "401",
+                "name": "Tell el-Adowel",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.897778,
+                    30.699722
+                ]
+            },
+            "properties": {
+                "id": "402",
+                "name": "Kom el-Ahmar",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.831667,
+                    31.448889
+                ]
+            },
+            "properties": {
+                "id": "403",
+                "name": "Kom el-Ahdar",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.863889,
+                    30.4925
+                ]
+            },
+            "properties": {
+                "id": "404",
+                "name": "Kom el-Ahmar 1",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.410278,
+                    30.872778
+                ]
+            },
+            "properties": {
+                "id": "405",
+                "name": "Kom el-Ahmar 2",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.719444,
+                    31.3525
+                ]
+            },
+            "properties": {
+                "id": "406",
+                "name": "Kom Alawi",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.099444,
+                    30.943889
+                ]
+            },
+            "properties": {
+                "id": "407",
+                "name": "Tell Amd",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.635278,
+                    31.227778
+                ]
+            },
+            "properties": {
+                "id": "408",
+                "name": "Tell Amya",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.704167,
+                    30.962222
+                ]
+            },
+            "properties": {
+                "id": "409",
+                "name": "Ezbet Aniz Ghubriyal",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.721667,
+                    31.316667
+                ]
+            },
+            "properties": {
+                "id": "410",
+                "name": "Kom el-Arab",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.765278,
+                    31.248333
+                ]
+            },
+            "properties": {
+                "id": "411",
+                "name": "Tell el-Arab",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.839957,
+                    29.3149639
+                ]
+            },
+            "properties": {
+                "id": "323",
+                "name": "Fayyum",
+                "pleiades": "736893"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.896389,
+                    30.486111
+                ]
+            },
+            "properties": {
+                "id": "412",
+                "name": "Kafr el-Ashiri",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5478985,
+                    25.496667
+                ]
+            },
+            "properties": {
+                "id": "413",
+                "name": "Deir Mustafa Kashef",
+                "pleiades": "776168"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.883333333333333,
+                    27.716666666666665
+                ]
+            },
+            "properties": {
+                "id": "414",
+                "name": "El-Sheikh Sa'id",
+                "pleiades": "756547"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.698053836822513,
+                    27.84528048692721
+                ]
+            },
+            "properties": {
+                "id": "415",
+                "name": "Deir Abu Fana",
+                "pleiades": "756523 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.480864524841316,
+                    25.369718302273917
+                ]
+            },
+            "properties": {
+                "id": "416",
+                "name": "Deir al-Fakhuri",
+                "pleiades": "786059 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.679368,
+                    27.355677
+                ]
+            },
+            "properties": {
+                "id": "417",
+                "name": "Abu Sha'ar",
+                "pleiades": "766332 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.67666,
+                    27.36744
+                ]
+            },
+            "properties": {
+                "id": "418",
+                "name": "Deir el-Quseir",
+                "pleiades": "727252"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.033849,
+                    28.650122
+                ]
+            },
+            "properties": {
+                "id": "419",
+                "name": "Ain el-Hayz",
+                "pleiades": "716510 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.4602778,
+                    34.8577778
+                ]
+            },
+            "properties": {
+                "id": "420",
+                "name": "Gezira el-Faraun",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.966668,
+                    29.678295
+                ]
+            },
+            "properties": {
+                "id": "421",
+                "name": "Hawwariya ",
+                "pleiades": "727153 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6097585,
+                    32.769365
+                ]
+            },
+            "properties": {
+                "id": "422",
+                "name": "Kalabsha",
+                "pleiades": "795868 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.410116,
+                    30.602698
+                ]
+            },
+            "properties": {
+                "id": "423",
+                "name": "Kom Namrud",
+                "pleiades": "736944 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6114471,
+                    28.2745989
+                ]
+            },
+            "properties": {
+                "id": "424",
+                "name": "El-Tor",
+                "pleiades": "746803 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.533559203147895,
+                    25.583217489637573
+                ]
+            },
+            "properties": {
+                "id": "425",
+                "name": "El-Tod",
+                "pleiades": "786132 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.96991,
+                    31.524445
+                ]
+            },
+            "properties": {
+                "id": "426",
+                "name": "Bashmur",
+                "pleiades": null
+            }
+        }
+    ]
+}
