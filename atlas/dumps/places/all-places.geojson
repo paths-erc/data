@@ -1251,14 +1251,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.906827,
-                    27.787299
+                    30.902202129364017,
+                    29.14728886926008
                 ]
             },
             "properties": {
                 "id": "109",
-                "name": "Deir Abu Hennes Wadi Gamus",
-                "pleiades": "756549"
+                "name": "Sadamant",
+                "pleiades": ""
             }
         },
         {
@@ -1587,7 +1587,7 @@
             },
             "properties": {
                 "id": "144",
-                "name": "Babylon",
+                "name": "Babylon - Fustat",
                 "pleiades": "727082"
             }
         },
@@ -5091,8 +5091,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.4602778,
-                    34.8577778
+                    34.8577778,
+                    29.4602778
                 ]
             },
             "properties": {
@@ -5121,8 +5121,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.6097585,
-                    32.769365
+                    32.769365,
+                    23.6097585
                 ]
             },
             "properties": {
@@ -5189,6 +5189,81 @@
                 "id": "426",
                 "name": "Bashmur",
                 "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7913853542,
+                    26.5982922326
+                ]
+            },
+            "properties": {
+                "id": "427",
+                "name": "Deir el-Shuhada",
+                "pleiades": "756561 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.922599,
+                    28.308013
+                ]
+            },
+            "properties": {
+                "id": "428",
+                "name": "Ganub Qasr el-Agouz",
+                "pleiades": "716504 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.43782043457032,
+                    25.28847329520524
+                ]
+            },
+            "properties": {
+                "id": "429",
+                "name": "Hagar Esna",
+                "pleiades": "786059"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.316666666666666,
+                    30.416666666666668
+                ]
+            },
+            "properties": {
+                "id": "430",
+                "name": "Deir Anba Bishoi",
+                "pleiades": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9041667,
+                    28.6402778
+                ]
+            },
+            "properties": {
+                "id": "431",
+                "name": "Gebel Qarara",
+                "pleiades": "736924"
             }
         }
     ]
